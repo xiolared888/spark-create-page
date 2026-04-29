@@ -167,7 +167,7 @@ MIT License. See LICENSE file for details.
 
 This project is maintained by Binary Horizon, an AI automation education and consulting practice. We build practical automation solutions and demonstrate their implementation through portfolio projects like Lexie's Walks.
 
-**Learn more**: [Binary Horizon](https://binaryhorizon.dev](https://intelligent-guidance-ai.lovable.app/)
+**Learn more**: [Binary Horizon](https://intelligent-guidance-ai.lovable.app/)
 
 ## Support
 
