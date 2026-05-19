@@ -597,7 +597,7 @@ export default function LexiesWalks() {
             <h4>Say hi</h4>
             <ul>
               <li><a href="tel:+18055565059" style={{ color: "var(--accent)", textDecoration: "none", fontWeight: 700 }}>Call / Text: (805) 556-5059</a></li>
-              <li>lexieswalks@example.com</li>
+              <li><a href="mailto:johnson.alexis1123@gmail.com" style={{ color: "var(--accent)", textDecoration: "none", fontWeight: 700 }}>johnson.alexis1123@gmail.com</a></li>
               <li>Sat &amp; Sun · 8am–6pm</li>
               <li><span className="hand" style={{ color: "var(--accent)" }}>thanks neighbor ✿</span></li>
             </ul>
